@@ -16,7 +16,6 @@
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 
 
- ![](./profile-3d-contrib/profile-night-view.svg)
 <a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
 <br/>  
