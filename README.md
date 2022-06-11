@@ -16,8 +16,8 @@
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 
 
- ![](./profile-3d-contrib/profile-Rajel J-view.svg)
-<a href="https://github.com/Rajel J-dev" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajel J-dev&label=Profile%20views&color=129e00&style=plastic" alt="Rajel J-dev" /> </p> 
+ ![](./profile-3d-contrib/profile-night-view.svg)
+<a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
 <br/>  
 
@@ -27,11 +27,11 @@
  ---
   ## Github Stats  
 <div align="center">
-  <a href="https://github.com/Rajel J-dev">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rajel J-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajel J-dev&layout=compact&langs_count=7&theme=dark" />
+  <a href="https://github.com/rajel718">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rajel718&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajel718&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Rajel J-dev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
