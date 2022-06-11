@@ -1,3 +1,4 @@
+<h3 align="center">Full Stack Web Developer</h3> 
 ### Hi, Dear. 👋
 
 Nice to meet you.
@@ -12,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...nothing
 - 😄 Pronouns: ...everything
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
-
-<h3 align="center">Full Stack Web Developer</h3> 
 
 --- 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
