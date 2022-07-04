@@ -42,4 +42,4 @@
 ## 🚀 Github Snake
 
 Nice to meet you, from Github Snake... lol. <br>
-![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
+![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/rajel718/rajel718/snake-grid-animation/github-contribution-snake-grid-animation.svg)
