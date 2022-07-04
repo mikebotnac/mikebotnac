@@ -31,6 +31,10 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajel718&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&theme=gruvbox&no-frame=true&margin-w=5&margin-h=20" />
-</div>
+
+<hr/>
+
+## 🚀 Github Snake
+
+Nice to meet you, from Github Snake... lol. <br>
+![GitHub Contribution Snake Grid Animation](https://raw.githubusercontent.com/fbuireu/fbuireu/snake-grid-animation/github-contribution-snake-grid-animation.svg)
