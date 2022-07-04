@@ -35,7 +35,7 @@
 </div>
 
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=nightfury-dev&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 <hr/>
 
