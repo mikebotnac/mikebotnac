@@ -42,5 +42,5 @@
 ## 🚀 Github Snake
 
 Nice to meet you, from Github Snake... lol. <br>
- ![Snake animation](https://github.com/rajel718/rajel718/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MelRibeiro/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
 
