@@ -37,10 +37,5 @@
  <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rajel718&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
 </div>
-<hr/>
 
-## 🚀 Github Snake
-
-Nice to meet you, from Github Snake... lol. <br>
- ![Snake animation](https://github.com/MelRibeiro/MelRibeiro/blob/output/github-contribution-grid-snake.svg)
 
