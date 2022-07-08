@@ -3,9 +3,6 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
-<p align="center">
- <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
 - 👯 I’m looking to collaborate on ...rival.<br>
