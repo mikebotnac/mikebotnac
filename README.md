@@ -5,7 +5,7 @@
 <p align="center">
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
-<div style="with:50%; position: relative; float:left">
+<div style="with:500px position: relative; float:left">
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
 - 👯 I’m looking to collaborate on ...rival.<br>
