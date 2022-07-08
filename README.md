@@ -1,9 +1,9 @@
 <h2 align="center">
-<a href="https://app.daily.dev/Rajel" align="right"><img align="right" alt="Rajel's Dev Card" width="32%" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" alt="Senior Full Stack Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajel" align="right"><img align="right" alt="Rajel's Dev Card" width="34%" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" alt="Senior Full Stack Dev's Dev Card"/></a>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
-<p>
+<p align="center">
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 - 🔭 I’m currently working on ...Forntend.<br>
