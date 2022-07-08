@@ -5,7 +5,7 @@
 <p align="center">
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
-<div style="with:50%; position: relative">
+<div style="with:50%; position: relative; float:left">
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
 - 👯 I’m looking to collaborate on ...rival.<br>
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...everything<br>
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
   <div>
-<a href="https://app.daily.dev/Rajel" style="with:50%; position:relative; float:left"><img src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" width="200" alt="Senior Full Stack Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajel" style="position:relative; float:left"><img src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" width="200" alt="Senior Full Stack Dev's Dev Card"/></a>
 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 
