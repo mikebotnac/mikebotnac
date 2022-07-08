@@ -3,7 +3,7 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 <a href="https://app.daily.dev/Rajel" align="right"><img align="right" alt="Rajel's Dev Card" width="32%" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" alt="Senior Full Stack Dev's Dev Card"/></a>
-<p align="center">
+<p>
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 - 🔭 I’m currently working on ...Forntend.<br>
