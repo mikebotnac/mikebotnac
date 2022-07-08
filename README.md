@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...everything<br>
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
 </div>
-<a href="https://app.daily.dev/Rajel" align="right"><img src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" width="200" alt="Senior Full Stack Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajel" align="right"><img align="right" alt="Rajel's Dev Card" width="33%" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" alt="Senior Full Stack Dev's Dev Card"/></a>
 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 
