@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 <a href="https://app.daily.dev/Rajel" align="right"><img align="right" alt="Rajel's Dev Card" width="30%" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" alt="Senior Full Stack Dev's Dev Card"/></a>
