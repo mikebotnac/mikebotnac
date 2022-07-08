@@ -14,7 +14,7 @@
 - 📫 How to reach me: ...nothing
 - 😄 Pronouns: ...everything
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
-
+<a href="https://app.daily.dev/Rajel"><img src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=hjf" width="400" alt="Senior Full Stack Dev's Dev Card"/></a>
 --- 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 
