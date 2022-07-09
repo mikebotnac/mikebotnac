@@ -6,6 +6,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
+<p width="300">
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
 - 👯 I’m looking to collaborate on ...rival.<br>
@@ -16,7 +17,7 @@
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
-
+</p>
 
 <a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
@@ -120,7 +121,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
->    
+
 <div align="center">
   <a href="https://github.com/rajel718">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rajel718&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
