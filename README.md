@@ -33,7 +33,7 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince891028&column=8&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=8&theme=onedark"/>
 </p>
 
 
