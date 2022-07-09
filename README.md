@@ -32,8 +32,8 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajel718&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=8&theme=onedark&margin-w=5&margin-h=5"/>
+<p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rajel718&column=8&theme=onedark&margin-w=5&margin-h=5"/>
 </p>
  <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=rajel718&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
