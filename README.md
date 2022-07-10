@@ -2,7 +2,9 @@
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
-<a href="https://app.daily.dev/Rajel"><img align="right" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=16m" width="270" alt="Senior Full Stack Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/Rajel"><img align="left" src="https://api.daily.dev/devcards/1f1c7049d259439c82b6a0805e32ac5a.png?r=16m" width="270" alt="Senior Full Stack Dev's Dev Card"/></a>
+<br>
+<br>
 <h2>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
    <!-- I'm <a href="">Tony Robin</a>!  -->
