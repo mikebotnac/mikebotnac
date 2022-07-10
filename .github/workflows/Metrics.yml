@@ -28,7 +28,6 @@ jobs:
           user: rajel718
           template: classic
           base: header
-          config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
