@@ -35,6 +35,6 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_people: yes
-          plugin_people_limit: 30
+          plugin_people_limit: 36
           plugin_people_size: 40
           plugin_people_types: following, followers
