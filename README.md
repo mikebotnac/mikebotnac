@@ -128,9 +128,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
 
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
