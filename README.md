@@ -24,7 +24,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="40%">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="50%">
 
 > Programming languages.
 
@@ -124,7 +124,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 
-<br/>
 
 <br/>
 
