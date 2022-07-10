@@ -22,9 +22,9 @@
 
 <a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
-<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
 > Programming languages.
 
 <p>
