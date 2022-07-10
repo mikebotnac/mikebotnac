@@ -24,7 +24,7 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="50%">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="40%">
 
 > Programming languages.
 
