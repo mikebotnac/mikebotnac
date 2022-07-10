@@ -17,6 +17,15 @@
 - 😄 Pronouns: ...everything<br>
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
 
+- 🔭 I’m currently working on ...Forntend.<br>
+- 🌱 I’m currently learning ...Blockchain.<br>
+- 👯 I’m looking to collaborate on ...rival.<br>
+- 🤔 I’m looking for help with ...my skills.<br>
+- 💬 Ask me about ...everything that I know.<br>
+- 📫 How to reach me: ...nothing<br>
+- 😄 Pronouns: ...everything<br>
+- ⚡ Fun fact: ...I am the best of the best, The best more than the best
+
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 </p>
 
