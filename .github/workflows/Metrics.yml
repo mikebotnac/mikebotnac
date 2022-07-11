@@ -31,7 +31,7 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           config_display: large
-          config_padding: 0, 8 + 3%
+          config_padding: 0, 0 + 5%
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -51,6 +51,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_people: yes
           plugin_people_limit: 40
-          plugin_people_size: 43
+          plugin_people_size: 40
           plugin_people_types: following, followers
           repositories_forks: yes
