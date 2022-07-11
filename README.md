@@ -25,6 +25,8 @@
 
 <a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
+<h2 align="left" id="macropower-tech">LittlePony's Metrics</h2>
+
 <a href="https://metrics.lecoq.io/embed?user=rajel718">
 <img src="/github-metrics.svg" alt="Metrics" with="100%">
  </a>
