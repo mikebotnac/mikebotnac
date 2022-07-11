@@ -1,7 +1,3 @@
-
-<a href="https://metrics.lecoq.io/embed?user=rajel718">
-<img src="/github-metrics.svg" alt="Metrics" with="100%">
- </a>
  <p align="center">
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
