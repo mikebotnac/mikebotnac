@@ -51,6 +51,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_people: yes
           plugin_people_limit: 40
-          plugin_people_size: 40
+          plugin_people_size: 43
           plugin_people_types: following, followers
           repositories_forks: yes
