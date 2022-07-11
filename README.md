@@ -25,10 +25,11 @@
 
 <a href="https://github.com/rajel718" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rajel718&label=Profile%20views&color=129e00&style=plastic" alt="\" /> </p> 
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 <a href="https://metrics.lecoq.io/embed?user=rajel718">
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="40%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
  </a>
+ 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Programming languages.
 
