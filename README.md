@@ -13,8 +13,8 @@
 <p width="300">
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
-- 👯 I’m looking to collaborate on ...rival.<br>
-- 🤔 I’m looking for help with ...my skills.<br>
+- 👯 I’m looking to collaborate on ...with my rival.<br>
+- 🤔 I’m looking for help  ... to improve my skills.<br>
 - 💬 Ask me about ...everything that I know.<br>
 - 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
 - 😄 Pronouns: ...everything<br>
