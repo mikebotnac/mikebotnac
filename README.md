@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on ...rival.<br>
 - 🤔 I’m looking for help with ...my skills.<br>
 - 💬 Ask me about ...everything that I know.<br>
-- 📫 How to reach me: ...nothing<br>
+- 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
 - 😄 Pronouns: ...everything<br>
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best
 
