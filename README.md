@@ -8,7 +8,7 @@
 </h2>
 
 <a href="https://app.daily.dev/Rajel">
- <img align="right" src="/devcard.svg" alt="DevCard" width="300">
+ <img align="right" src="/devcard.svg" alt="DevCard" width="290">
 </a>
 
 <p width="300">
