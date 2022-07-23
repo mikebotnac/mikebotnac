@@ -1,15 +1,16 @@
  <p align="center">
- <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Please+follow+me+for+supporting;Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
+
+<h2>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+   <!-- I'm <a href="">Tony Robin</a>!  -->
+</h2>
 
 <a href="https://app.daily.dev/Rajel">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
 
-<h2>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-   <!-- I'm <a href="">Tony Robin</a>!  -->
-</h2>
 <p width="300">
 - 🔭 I’m currently working on ...Forntend.<br>
 - 🌱 I’m currently learning ...Blockchain.<br>
@@ -18,7 +19,16 @@
 - 💬 Ask me about ...everything that I know.<br>
 - 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
 - 😄 Pronouns: ...everything<br>
-- ⚡ Fun fact: ...I am the best of the best, The best more than the best
+- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><br><b>
+Full Stack Developer</b> with 6+ years of hands-on experience designing, developing, and implementing applications and
+solutions using a range of technologies and programming languages.Seeking to leverage broad development
+experience and hands-on technical expertise in a challenging role as a Full-stack Developer.<br><li>
+Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
+functional rogramming.<br></li><li>
+When working with me you can expect a professional, prompt and friendly service.<br></li><li>
+I have 6+ years of experience in React and React Native development and these are my main skills.<br></li><li>
+On the other hand I have 3+ years of experience in Angular and Vue.<br></li><li>
+In addition to these, I can provide you backend development with Express, Nest, Nuxt and Laravel.<br></li>
 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 </p>
