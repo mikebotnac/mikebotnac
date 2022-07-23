@@ -19,7 +19,7 @@
 - 💬 Ask me about ...everything that I know.<br>
 - 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
 - 😄 Pronouns: ...everything<br>
-- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><br><li>
+- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><li>
 Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
 functional rogramming.<br></li><li>
 When working with me you can expect a professional, prompt and friendly service.<br></li><li>
