@@ -19,16 +19,16 @@
 - 💬 Ask me about ...everything that I know.<br>
 - 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
 - 😄 Pronouns: ...everything<br>
-- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><br><b>
-Full Stack Developer</b> with 6+ years of hands-on experience designing, developing, and implementing applications and
-solutions using a range of technologies and programming languages.Seeking to leverage broad development
-experience and hands-on technical expertise in a challenging role as a Full-stack Developer.<br><li>
+- ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><br><li>
 Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
 functional rogramming.<br></li><li>
 When working with me you can expect a professional, prompt and friendly service.<br></li><li>
 I have 6+ years of experience in React and React Native development and these are my main skills.<br></li><li>
 On the other hand I have 3+ years of experience in Angular and Vue.<br></li><li>
-In addition to these, I can provide you backend development with Express, Nest, Nuxt and Laravel.<br></li>
+In addition to these, I can provide you backend development with Express, Nest, Nuxt and Laravel.<br></li><b>
+Full Stack Developer</b> with 6+ years of hands-on experience designing, developing, and implementing applications and
+solutions using a range of technologies and programming languages.Seeking to leverage broad development
+experience and hands-on technical expertise in a challenging role as a Full-stack Developer.<br>
 
 <h6>Results-driven developer with a successful track record in exceeding expectations for web development initiatives</h6>
 </p>
