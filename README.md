@@ -1,5 +1,5 @@
  <p align="center">
- <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Please+follow+me+for+supporting;Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Please+follow+me+for+supporting!;Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 <h2>
