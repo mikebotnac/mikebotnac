@@ -21,7 +21,7 @@
 - 😄 Pronouns: ...everything<br>
 - ⚡ Fun fact: ...I am the best of the best, The best more than the best<br><li>
 Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
-functional rogramming.<br></li><li>
+functional programming.<br></li><li>
 When working with me you can expect a professional, prompt and friendly service.<br></li><li>
 I have 6+ years of experience in React and React Native development and these are my main skills.<br></li><li>
 On the other hand I have 3+ years of experience in Angular and Vue.<br></li><li>
