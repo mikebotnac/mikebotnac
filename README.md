@@ -150,7 +150,7 @@ experience and hands-on technical expertise in a challenging role as a Full-stac
   </a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
 
 
