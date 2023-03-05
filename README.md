@@ -1,4 +1,4 @@
-<!--  <p align="center">
+<p align="center">
  <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Please+follow+me+for+supporting!;Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
@@ -152,6 +152,3 @@ experience and hands-on technical expertise in a challenging role as a Full-stac
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
-
-
- -->
