@@ -1,13 +1,4 @@
-<p align="center">
- <a href="https://github.com/rajel718"><img src="https://readme-typing-svg.herokuapp.com?lines=Please+follow+me+for+supporting!;Rajel+Techonology+Enables+Every+Dream+=+RAJEL;Web+Fullstack+Developer;MERN%20|%20MEAN%20|%20MEVN%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
-
-<h2>
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Welcome to my Github!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-   <!-- I'm <a href="">Tony Robin</a>!  -->
-</h2>
-
-<a href="https://app.daily.dev/Rajel">
+<!-- <a href="https://app.daily.dev/Rajel">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
 
@@ -142,13 +133,6 @@ experience and hands-on technical expertise in a challenging role as a Full-stac
 
 
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
-<!-- 
-<div align="center">
-  <a href="https://github.com/rajel718">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rajel718&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajel718&layout=compact&langs_count=7&theme=gruvbox" />
-  </a>
-</div> -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
-</div>
+</div> -->
