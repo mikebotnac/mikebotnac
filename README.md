@@ -1,4 +1,4 @@
-<!-- <a href="https://app.daily.dev/Rajel">
+<a href="https://app.daily.dev/Rajel">
  <img align="right" src="/devcard.svg" alt="DevCard" width="270">
 </a>
 
@@ -135,4 +135,4 @@ experience and hands-on technical expertise in a challenging role as a Full-stac
  <h2 align="left" id="macropower-tech">Github Stats  </h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajel718&column=7&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
-</div> -->
+</div>
