@@ -1,16 +1,16 @@
-<!-- <a href="https://app.daily.dev/Rajel">
+<a href="https://app.daily.dev/Rajel">
   <img align="right" src="/devcard.svg" alt="DevCard" width="270">
-</a> -->
+</a>
 
 <p>
-  <!-- - 🔭 I’m currently working on ...Forntend.<br>
+  - 🔭 I’m currently working on ...Forntend.<br>
   - 🌱 I’m currently learning ...Blockchain.<br>
   - 👯 I’m looking to collaborate on ...with my rival.<br>
   - 🤔 I’m looking for help ... to improve my skills.<br>
   - 💬 Ask me about ...everything that I know.<br>
   - 📫 How to reach me: ...live:.cid.e27aecdadfe9ae1b<br>
   - 😄 Pronouns: ...everything<br>
-  - ⚡ Fun fact: ...I am the best of the best, The best more than the best<br> -->
+  - ⚡ Fun fact: ...I am the best of the best, The best more than the best<br>
   <li>
     Love to build well-structured, clean code and clean repositories with maintainable and scalable structure,
     functional programming.<br></li>
